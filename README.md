@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **JavaScript and NodeJS**
 
-- 👨‍💻 All of my projects are available at [https://www.instagram.com/shoxruxshomurodoff/](https://www.instagram.com/shoxruxshomurodoff/)
-
 - 📫 How to reach me **+998997275098**
 
 <h3 align="left">Connect with me:</h3>
