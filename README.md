@@ -75,13 +75,13 @@
 
 <!--  Zustand  -->
 <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer">
-<img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="zustand" width="40" height="40"/>
+<img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="zustand" width="60" height="40"/>
 </a>
 <!--  Zustand  -->
 
 <!--  React Query  -->
 <a href="https://tanstack.com/query/v3/" target="_blank" rel="noreferrer">
-<img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="zustand" width="40" height="40"/>
+<img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="zustand" width="50" height="40"/>
 </a>
 <!--  React Query  -->
 
