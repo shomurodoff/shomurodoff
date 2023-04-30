@@ -81,7 +81,7 @@
 
 <!--  React Query  -->
 <a href="https://tanstack.com/query/v3/" target="_blank" rel="noreferrer">
-<img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="zustand" width="50" height="40"/>
+<img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="zustand" width="45" height="40"/>
 </a>
 <!--  React Query  -->
 
